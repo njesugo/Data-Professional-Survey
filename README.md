@@ -55,4 +55,4 @@ Chacun des critères a fait l'objet d'un visuels.
 
 # `Dashboard - Power BI`
 
-![`Dashboard`](image/DashboardPowerBI.png)
+![`Dashboard`](image/DashbaordPowerBI.png)
