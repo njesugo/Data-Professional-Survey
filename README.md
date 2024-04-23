@@ -52,3 +52,7 @@ Chacun des critères a fait l'objet d'un visuels.
 - La plupart des professionnels préfèrent Python, mais beaucoup plus des data analyst (soit 255 d'eux sur 630), au devant de R, C/C++, Javascript mais Java en dernier
 - Sur une note totale de 10 ont obtient en moyenne 5.74 de taux de satisfaction par rapport au travail et au style de vie (les hommes sont légèrement plus satisfaits que les femmes soit 5.77 Vs 5.66)
 - Sur une note totale de 10 ont obtient seulement en moyenne 4.27 de taux de satisfaction par rapport au salaire ( mais en revanche, niveau salaire, les femmes sont légèrement plus satisfaits que les hommes soit 4.28 Vs 4.27)
+
+# `Dashboard - Power BI`
+
+![`Dashboard`](image/DashboardPowerBI.png)
