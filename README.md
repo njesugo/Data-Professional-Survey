@@ -1,4 +1,4 @@
-Les metiers de la donnée sont ativement d'actualité. C'est le marché avec la plus grande croissance sur les dernières années. Du moins selon les rumeurs et la une.
+Les metiers de la donnée sont ativement d'actualité. C'est le marché avec la plus grande croissance sur les dernières années.
 
 Mais les professionnels de la donnée alors ? 
 Que disent ils ? 
